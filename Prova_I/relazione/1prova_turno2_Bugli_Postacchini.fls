@@ -1,6 +1,6 @@
-PWD c:\Users\giopo\OneDrive - Alma Mater Studiorum Università di Bologna\Lab_Elettronica\Prova_I\relazione
+PWD c:\Users\giopo\Desktop\Unibo\Laboratorio_Elettronica\Esperienze_Lab3\Prova_I\relazione
 INPUT C:\Users\giopo\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Users\giopo\OneDrive - Alma Mater Studiorum Università di Bologna\Lab_Elettronica\Prova_I\relazione\1prova_turno2_Bugli_Postacchini.tex
+INPUT c:\Users\giopo\Desktop\Unibo\Laboratorio_Elettronica\Esperienze_Lab3\Prova_I\relazione\1prova_turno2_Bugli_Postacchini.tex
 OUTPUT 1prova_turno2_Bugli_Postacchini.log
 INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -222,13 +222,10 @@ INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\giopo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT .\schema_circuito.pdf
-INPUT .\schema_circuito.pdf
-INPUT schema_circuito.pdf
+INPUT ..\analisi dati\calibrazione.png
+INPUT ..\analisi dati\calibrazione.png
+INPUT ..\analisi dati\calibrazione.png
 OUTPUT 1prova_turno2_Bugli_Postacchini.xdv
-INPUT ..\analisi dati\calibrazione.png
-INPUT ..\analisi dati\calibrazione.png
-INPUT ..\analisi dati\calibrazione.png
 INPUT ..\analisi dati\caratteristiche _dati.png
 INPUT ..\analisi dati\caratteristiche _dati.png
 INPUT ..\analisi dati\caratteristiche _dati.png

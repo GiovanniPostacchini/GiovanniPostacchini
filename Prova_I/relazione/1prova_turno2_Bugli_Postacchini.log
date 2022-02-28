@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.5.18)  2 DEC 2021 17:00
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.5.18)  28 FEB 2022 18:39
 entering extended mode
-**"c:/Users/giopo/OneDrive - Alma Mater Studiorum Università di Bologna/Lab_Elettronica/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex"
-(c:/Users/giopo/OneDrive - Alma Mater Studiorum Università di Bologna/Lab_Elettronica/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex
+**c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex
+(c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-07> (C:\Users\giopo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -196,36 +196,82 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 30.
+
+LaTeX Warning: File `schema_circuito.pdf' not found on input line 38.
+
+c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex:38: Unable to load picture or PDF file 'schema_circuito.pdf'.
+<to be read again> 
+                   }
+l.38 ...[width=0.7\linewidth]{schema_circuito.pdf}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex:38: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...[width=0.7\linewidth]{schema_circuito.pdf}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: schema_circuito.pdf Graphic file (type pdf)
 <use schema_circuito.pdf>
-[1
-
-]
-File: ../analisi dati/calibrazione.png Graphic file (type bmp)
-<../analisi dati/calibrazione.png>
+c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex:38: Unable to load picture or PDF file 'schema_circuito.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.38 ...[width=0.7\linewidth]{schema_circuito.pdf}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2] [3]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ../analisi dati/calibrazione.png Graphic file (type bmp)
+<../analisi dati/calibrazione.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (20.55014pt too high) has occurred while \output is active []
+
+ [2]
 File: ../analisi dati/caratteristiche _dati.png Graphic file (type bmp)
 <../analisi dati/caratteristiche _dati.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: ../analisi dati/germanio_fit.png Graphic file (type bmp)
 <../analisi dati/germanio_fit.png>
 File: ../analisi dati/silicio_fit.png Graphic file (type bmp)
 <../analisi dati/silicio_fit.png>
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5] (1prova_turno2_Bugli_Postacchini.aux) ) 
+[3] [4] [5] (1prova_turno2_Bugli_Postacchini.aux) ) 
 Here is how much of TeX's memory you used:
- 4040 strings out of 411578
- 66363 string characters out of 2834362
- 409945 words of memory out of 3000000
- 24147 multiletter control sequences out of 15000+600000
+ 4104 strings out of 411578
+ 67665 string characters out of 2834362
+ 415945 words of memory out of 3000000
+ 24191 multiletter control sequences out of 15000+600000
  407154 words of font info for 48 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,9n,63p,833b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,63p,815b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 1prova_turno2_Bugli_Postacchini.xdv (5 pages, 83900 bytes).
+Output written on 1prova_turno2_Bugli_Postacchini.xdv (5 pages, 83796 bytes).

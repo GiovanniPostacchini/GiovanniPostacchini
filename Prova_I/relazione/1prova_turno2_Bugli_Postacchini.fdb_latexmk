@@ -1,15 +1,15 @@
 # Fdb version 3
-["xdvipdfmx"] 1638460852 "1prova_turno2_Bugli_Postacchini.xdv" "1prova_turno2_Bugli_Postacchini.pdf" "1prova_turno2_Bugli_Postacchini" 1638460853
-  "1prova_turno2_Bugli_Postacchini.xdv" 1638460852 83900 72a123b05621c8569149785a34be5a82 "xelatex"
+["xdvipdfmx"] 0 "1prova_turno2_Bugli_Postacchini.xdv" "1prova_turno2_Bugli_Postacchini.pdf" "1prova_turno2_Bugli_Postacchini" 0
+  "1prova_turno2_Bugli_Postacchini.xdv" 0 -1 0 "xelatex"
   (generated)
   "1prova_turno2_Bugli_Postacchini.pdf"
-["xelatex"] 1638460849 "c:/Users/giopo/OneDrive - Alma Mater Studiorum Università di Bologna/Lab_Elettronica/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex" "1prova_turno2_Bugli_Postacchini.xdv" "1prova_turno2_Bugli_Postacchini" 1638460853
+["xelatex"] 1646069988 "c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex" "1prova_turno2_Bugli_Postacchini.xdv" "1prova_turno2_Bugli_Postacchini" 1646069988
   "../analisi dati/calibrazione.png" 1637773886 16134 c2bef7b5d90bd4b2d7f810cdbcb9b85a ""
   "../analisi dati/caratteristiche _dati.png" 1638278796 9991 ab66c93a16a0aa70916575c1c06eadae ""
   "../analisi dati/germanio_fit.png" 1637774309 13981 6d5be5dbb9741ec5373b1a4406e56e61 ""
   "../analisi dati/silicio_fit.png" 1637773935 15193 83a91bf53f9ce4a65dc4d6a4d15efa52 ""
-  "1prova_turno2_Bugli_Postacchini.aux" 1638460852 2945 cd06cd59a4c675f1c7cd5d5484f24626 "xelatex"
-  "1prova_turno2_Bugli_Postacchini.tex" 1638460845 16722 d792babafcb874333f79126328861be9 ""
+  "1prova_turno2_Bugli_Postacchini.aux" 1646069988 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "1prova_turno2_Bugli_Postacchini.tex" 1646069982 16722 d792babafcb874333f79126328861be9 ""
   "C:/Users/giopo/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1621354991 23053602 ddea3904ea355a602c23f1f2020470ab ""
   "C:/Users/giopo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Users/giopo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -48,9 +48,9 @@
   "C:/Users/giopo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-xetex.def" 1620379312 34607 25e5c2061f7f579d6bc23eacf78e51cd ""
   "C:/Users/giopo/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "C:/Users/giopo/AppData/Local/Programs/MiKTeX/tex/xelatex/xetexconfig/geometry.cfg" 1169251881 322 f4a6234bc28bf70659404393c15d3854 ""
-  "c:/Users/giopo/OneDrive - Alma Mater Studiorum Università di Bologna/Lab_Elettronica/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex" 1638460845 16722 d792babafcb874333f79126328861be9 ""
-  "schema_circuito.pdf" 1637617033 17515 539aecdf8353ecb8597a5665605f5a3f ""
+  "c:/Users/giopo/Desktop/Unibo/Laboratorio_Elettronica/Esperienze_Lab3/Prova_I/relazione/1prova_turno2_Bugli_Postacchini.tex" 1646069982 16722 d792babafcb874333f79126328861be9 ""
+  "schema_circuito.pdf" 0 -1 0 ""
   (generated)
   "1prova_turno2_Bugli_Postacchini.log"
-  "1prova_turno2_Bugli_Postacchini.aux"
   "1prova_turno2_Bugli_Postacchini.xdv"
+  "1prova_turno2_Bugli_Postacchini.aux"
